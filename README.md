@@ -50,14 +50,6 @@
 ## 📊 My Github Stats
 
 
-[![shivamt2107 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shivamt2107&&theme=xcode)](https://github.com/Shivamt2107)
-
-  ![stats](https://github-readme-stats.vercel.app/api?username=shivamt2107&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-
 ## ❤ Views and Followers
 <a href="https://github.com/TheShenron/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TheShenron">
