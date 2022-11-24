@@ -55,13 +55,13 @@
 ## 📊 My Github Stats
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shivamt2107&theme=gruvbox&hide_border=true&area=true)
+ ![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Shivamt2107/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Shivamt2107">
 </a>
 <a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/Shivamt2107?label=Followers&style=social" alt="GitHub Badge"></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&&theme=tokyonight" alt="Shivamt2107" /></p>
 
 
 <div align="center">
@@ -71,9 +71,6 @@
 </div>
 
 
-![GitHub metrics](https://metrics.lecoq.io/Shivamt2107)  
-
- 
 
 <img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
