@@ -57,10 +57,10 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shivamt2107&theme=gruvbox&hide_border=true&area=true)
 
 ## ❤ Views and Followers
-<a href="https://github.com/TheShenron/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TheShenron">
+<a href="https://github.com/Shivamt2107/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Shivamt2107">
 </a>
-<a href="https://github.com/TheShenron?tab=followers"><img src="https://img.shields.io/github/followers/TheShenron?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/Shivamt2107?label=Followers&style=social" alt="GitHub Badge"></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&&theme=tokyonight" alt="Shivamt2107" /></p>
 
 
