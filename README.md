@@ -1,17 +1,22 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://ShivamGote2107.io)
 
-<h1 align="center">Hi 👋, I'm <span color="teal">Shivam Gote</span></h1>
-<h3 align="center">A passionate Full Stack Web Devloper</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Shivam Gote <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Shivam Gote; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
 
+<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGote&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGote" /> </p>
 
 <p align="left"> <a href="https://twitter.com/GoteShivam" target="blank"><img src="https://img.shields.io/twitter/follow/GoteShivam?logo=twitter&style=for-the-badge" alt="shivamGote" /></a> </p>
 
 ## :sassy_man:  About me
- I have completed Degree In Bcom 🎓 from Solapur University Solapur  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I am a passionate and self-motivated aspiring full-stack developer from Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br/>
+
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **MERN Stack Dev.**
@@ -49,6 +54,7 @@
 
 ## 📊 My Github Stats
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shivamt2107&theme=gruvbox&hide_border=true&area=true)
 
 ## ❤ Views and Followers
 <a href="https://github.com/TheShenron/github-profile-views-counter">
@@ -56,6 +62,21 @@
 </a>
 <a href="https://github.com/TheShenron?tab=followers"><img src="https://img.shields.io/github/followers/TheShenron?label=Followers&style=social" alt="GitHub Badge"></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&&theme=tokyonight" alt="Shivamt2107" /></p>
+
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+![GitHub metrics](https://metrics.lecoq.io/Shivamt2107)  
+
+ 
+
+<img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+
 <!---
 Shivamt2107/Shivamt2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
