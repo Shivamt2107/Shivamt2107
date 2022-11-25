@@ -53,9 +53,12 @@
 <br/>
 
 ## 📊 My Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=Shivamt2107&theme=algolia" align="center" alt="Shivamt2107" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
+<a href="https://github.com/Shivamt2107/github-readme-activity-graph"><img alt="Shivamt2107 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamt2107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shivamt2107&theme=gruvbox&hide_border=true&area=true)
- ![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
+
+![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Shivamt2107/github-profile-views-counter">
@@ -71,9 +74,10 @@
 </div>
 
 
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ </p>
 <img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-
 <!---
 Shivamt2107/Shivamt2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
