@@ -44,8 +44,9 @@
     <a href="https://rsgm .js.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"        alt="express" width="40" height="40"/> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a>   
-     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/512/heroku.png" width="48" height="48"/> </a>   
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
+      <a href="https://chakra-ui.com" target="_blank"> <img src="https://img.icons8.com/color/512/chakra-ui.png" width="48" height="48"/> </a> 
+     <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/512/heroku.png" width="48" height="48"/> </a>   
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>     </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
