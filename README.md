@@ -60,7 +60,9 @@
 ## 📊 My Github Stats
 <img src="https://github-profile-trophy.vercel.app/?username=Shivamt2107&theme=algolia" align="center" alt="Shivamt2107" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
-<a href="https://github.com/Shivamt2107/github-readme-activity-graph"><img alt="Shivamt2107 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamt2107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivamt2107&bg_color=212121&color=d61fca&line=e628d9&point=c5b4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
