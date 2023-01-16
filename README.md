@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Shivam Gote; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-
 <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
