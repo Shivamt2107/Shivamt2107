@@ -61,8 +61,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Shivamt2107&theme=algolia" align="center" alt="Shivamt2107" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shivamt2107&bg_color=0d0d0d&color=c4c4c4&line=2ff4dd&point=c5c4c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivamt2107&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
 
 ## ❤ Views and Followers
