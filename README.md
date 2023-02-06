@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/GoteShivam" target="blank"><img src="https://img.shields.io/twitter/follow/GoteShivam?logo=twitter&style=for-the-badge" alt="shivamGote" /></a> </p>
 
 ## :sassy_man:  About me
-I have completed Degree In Bachelor of Commerce 🎓 from Solappur University Maharashtra 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I have completed Degree In Bachelor of Commerce 🎓 from Solapur University Maharashtra 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br/>
 
 - 🔭 I’m currently working on **Portfolio**
