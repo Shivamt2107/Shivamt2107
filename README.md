@@ -9,9 +9,12 @@
 <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGote&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGote" /> </p>
+
 
 <p align="left"> <a href="https://www.linkedin.com/in/shivam-gote/" target="blank"><img src="https://img.shields.io/twitter/follow/GoteShivam?logo=linkedin&style=for-the-badge" alt="shivamGote" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGote&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGote" /> </p>
+
 
 ## :sassy_man:  About me
  I'm a passionate 🎓 learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.
