@@ -20,6 +20,10 @@ I have completed Degree In Bachelor of Commerce 🎓 from Solapur University Mah
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **MERN Stack Dev.**
+ 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lu01nMX_NF_A_A3iDpArPnqnI4qjxhC2/view?usp=sharing)
+
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://shivamt2107.github.io/)
 
 - 📫 How to reach me **shivam.gote2107@gmail.com**
 
