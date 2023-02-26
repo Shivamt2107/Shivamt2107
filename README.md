@@ -10,10 +10,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGote&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGote" /> </p>
+
 
 <p align="left"> <a href="https://www.linkedin.com/in/shivam-gote/" target="blank"><img src="https://img.shields.io/twitter/follow/GoteShivam?logo=linkedin&style=for-the-badge" alt="shivamGote" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamGote&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamGote" /> </p>
 
 
 ## :sassy_man:  About me
