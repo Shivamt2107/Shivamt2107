@@ -75,12 +75,15 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
 
 <!-- Amol Portfolio -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivamt2107&show_icons=true&locale=en&layout=compact" alt="Shivamt2107" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivamt2107&show_icons=true&locale=en" alt="Shivamt2107" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shivamt2107&show_icons=true&locale=en" alt="Shivamt2107" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&" alt="Shivamt2107" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&" alt="Shivamt2107" /></p>
 
+<br/>
+
+
+<br/>
 
 
 
