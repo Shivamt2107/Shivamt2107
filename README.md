@@ -82,10 +82,16 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shivamt2107&show_icons=true&locale=en" alt="Shivamt2107" /></p>
+<!-- Suumit  -->
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&" alt="Shivamt2107" /></p>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivamt2107&theme=github" alt="Shivamt2107" />
 
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivamt2107&theme=github" alt="Shivamt2107" />
+
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivamt2107&theme=github" alt="Shivamt2107" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivamt2107&theme=github">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivamt2107&theme=github&utcOffset=8">
 
 
 
