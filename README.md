@@ -82,18 +82,10 @@
 
 <br/>
 
-<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shivamt2107&show_icons=true&locale=en" alt="Shivamt2107" /></p>
 
-<img  align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitss085&theme=github">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitss085&theme=github">
-	
-</p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamt2107&" alt="Shivamt2107" /></p>
 
-<p>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitss085&theme=github">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitss085&theme=github&utcOffset=8">
-	
-</p>
 
 
 
