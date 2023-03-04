@@ -82,15 +82,19 @@
 
 <br/>
 
-<p align="center">
+<p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitss085&theme=github">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitss085&theme=github">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitss085&theme=github">
+	
+</p>
+
+<p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitss085&theme=github">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitss085&theme=github&utcOffset=8">
 	
 </p>
-<hr/>
+
 
 
 <br/>
