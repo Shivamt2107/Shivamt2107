@@ -25,7 +25,7 @@
 
 
 ## :sassy_man:  About me
- I'm a passionate 🎓 learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.
+ I'm a passionate 🎓 learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Some technologies that I enjoy working with include React js, Node js, javascript, and typescript✨.
 <br/>
 
 
@@ -34,13 +34,13 @@
 
 - 🌱 I’m currently learning **MERN Stack Dev.**
  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lu01nMX_NF_A_A3iDpArPnqnI4qjxhC2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M6zXnROFReUKReTYZfszmGWUAB-XSgic/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://shivamt2107.github.io/)
+- 👨‍💻 All of my projects are available on GitHub and [Portfolio](https://shivamt2107.github.io/)
 
 - 📫 How to reach me **shivam.gote2107@gmail.com**
 
-- ⚡ Fun fact **I am Criket Lover**
+- ⚡ Fun fact **I am Cricket Lover**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
